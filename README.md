@@ -11,7 +11,7 @@ A **Tesla webpage clone** created using **HTML** and **CSS** to replicate the lo
 
 ## 📸 Screenshots
 
-![Tesla Page Clone Screenshot](https://zaio-platform-vehicle-clone.netlify.app/)
+https://zaio-platform-vehicle-clone.netlify.app/
 
 ## 💻 Technologies Used
 
