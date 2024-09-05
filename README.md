@@ -9,7 +9,7 @@ A **Tesla webpage clone** created using **HTML** and **CSS** to replicate the lo
 - CSS animations for smooth transitions
 - Cross-browser compatibility
 
-## 📸 Screenshots
+## 📸 Link to Site 👩🏽‍💻
 
 https://zaio-platform-vehicle-clone.netlify.app/
 
